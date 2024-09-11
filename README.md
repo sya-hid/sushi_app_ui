@@ -25,3 +25,4 @@
 <img src="assets/previews/Screenshot_1698814160.png" width="200">
 <img src="assets/previews/Screenshot_1698814168.png" width="200">
 </p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sya-hid.sushi_app_ui"/>  
